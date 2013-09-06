@@ -60,10 +60,8 @@
 		Modernizr = window.Modernizr;
 
 	$.Slitslider = function( options, element ) {
-		console.log(options);
 		this.$elWrapper = $( element );
 		this._init( options );
-
 	};
 
 	$.Slitslider.defaults = {
@@ -112,10 +110,14 @@
 			this.$slides = this.$el.children( '.sl-slide' ).hide();
 			// total slides
 			this.slidesCount = this.$slides.length;
-			// current slide
+			// current slide number
 			this.current = 0;
+			// current slide
+			this.currentSlide = null;
 			// control if it's animating
 			this.isAnimating = false;
+			// if autoplay if true
+			this.isPlaying = true;
 			// get container size
 			this._getSize();
 			// layout
@@ -384,6 +386,9 @@
 			var $slide = $slice.parent(),
 				removeClasses = 'sl-trans-elems sl-trans-back-elems';
 
+			// set current slide
+			this.currentSlide = this.$slides.eq( this.current );
+
 			// remove second slide's slice
 			$slice.remove();
 			// unwrap..
@@ -396,7 +401,7 @@
 			$slide.removeClass( removeClasses );
 			// now we can navigate again..
 			this.isAnimating = false;
-			this.options.onAfterChange( $slide, this.current );
+			this.options.onAfterChange( this.currentSlide, this.current );
 
 		},
 		_setSize : function() {
