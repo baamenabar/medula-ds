@@ -1,0 +1,10 @@
+{
+	"folders":
+	[
+		{
+			"path": "/C/xampp/htdocs/medula/digital-signage",
+			"file_exclude_patterns": ["*.sublime-workspace", "*.sublime-project"],
+			"folder_exclude_patterns": [".git"]
+		}
+	]
+}

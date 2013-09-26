@@ -1,0 +1,1723 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"current",
+				"currentSlide"
+			],
+			[
+				"curren",
+				"currentSlide"
+			],
+			[
+				"utf8",
+				"utf8_encode"
+			],
+			[
+				"array",
+				"array_diff"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"local",
+				"localImgs"
+			],
+			[
+				"img",
+				"imgFile"
+			],
+			[
+				"nor",
+				"normalImgUrl"
+			],
+			[
+				"small",
+				"smallImg"
+			],
+			[
+				"gui",
+				"guid"
+			],
+			[
+				"smal",
+				"smallImgNumber"
+			],
+			[
+				"normal",
+				"normalImg"
+			],
+			[
+				"sma",
+				"smallImgNumber"
+			],
+			[
+				"norma",
+				"normalImgNumber"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"presu",
+				"presupuesto_"
+			],
+			[
+				"slide",
+				"slideSiguiente"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"has",
+				"hasClass"
+			],
+			[
+				"pres",
+				"presupuesto_2"
+			],
+			[
+				"hi",
+				"historiaSlides"
+			],
+			[
+				"in",
+				"iniciado"
+			],
+			[
+				"sli",
+				"slides"
+			],
+			[
+				"p",
+				"personas"
+			],
+			[
+				"pre",
+				"presupuesto"
+			],
+			[
+				"sl",
+				"slideActual"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"prs",
+				"presupuesto_6"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"presupuest",
+				"presupuesto_3"
+			],
+			[
+				"ra",
+				"rangoActual"
+			],
+			[
+				"init",
+				"initSlide"
+			],
+			[
+				"en",
+				"encontrarRango"
+			],
+			[
+				"fad",
+				"fadeIn"
+			],
+			[
+				"canti",
+				"cantidadPersonas"
+			],
+			[
+				"dat",
+				"datosFiesta"
+			],
+			[
+				"tipo",
+				"tipoFiesta"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"scr",
+				"scrollTo"
+			],
+			[
+				"text",
+				"textarea"
+			],
+			[
+				"pos",
+				"post_IE"
+			],
+			[
+				"sc",
+				"scrollTo"
+			],
+			[
+				"Re",
+				"RewriteRule"
+			],
+			[
+				"Rew",
+				"RewriteEngine"
+			],
+			[
+				"Rer",
+				"RewriteCond"
+			],
+			[
+				"preg_",
+				"preg_replace"
+			],
+			[
+				"do",
+				"doQuote"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"fade",
+				"fadeOut"
+			],
+			[
+				"i",
+				"inherit"
+			],
+			[
+				"lei",
+				"line-height"
+			],
+			[
+				"l",
+				"line-height"
+			],
+			[
+				"tex",
+				"textarea"
+			],
+			[
+				"before",
+				"link_before"
+			],
+			[
+				"end",
+				"endif"
+			],
+			[
+				"print",
+				"printf"
+			],
+			[
+				"url",
+				"urlVideo"
+			],
+			[
+				"preg",
+				"preg_match"
+			],
+			[
+				"ca",
+				"categoriesID"
+			],
+			[
+				"cate",
+				"categoriesID"
+			],
+			[
+				"maga",
+				"magazine"
+			],
+			[
+				"ma",
+				"magazine"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"bacg",
+				"background-color"
+			],
+			[
+				"b",
+				"background-color"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"th",
+				"thumb"
+			],
+			[
+				"borde",
+				"border"
+			],
+			[
+				"marin",
+				"margin-bottom"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"nick",
+				"nickPassword"
+			],
+			[
+				"customer",
+				"customer_id"
+			],
+			[
+				"cust",
+				"customer_data"
+			],
+			[
+				"isn",
+				"is_null"
+			],
+			[
+				"first",
+				"first_post"
+			],
+			[
+				"page_me",
+				"page_meta_keywords"
+			],
+			[
+				"fore",
+				"foreach	foreach …"
+			],
+			[
+				"segme",
+				"segments"
+			],
+			[
+				"seg",
+				"segments"
+			],
+			[
+				"se",
+				"segments"
+			],
+			[
+				"user",
+				"userBranches"
+			],
+			[
+				"use",
+				"userBranches"
+			],
+			[
+				"bui",
+				"buildBranches"
+			],
+			[
+				"role",
+				"roleEditAction"
+			],
+			[
+				"item",
+				"itemID"
+			],
+			[
+				"bra",
+				"branchName"
+			],
+			[
+				"data",
+				"dataListOptions"
+			],
+			[
+				"edit",
+				"editUntil"
+			],
+			[
+				"Inp",
+				"Input	Laravel: Input::all()"
+			],
+			[
+				"Inpu",
+				"Input	Laravel: Input::get()"
+			],
+			[
+				"us",
+				"userGroup"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"php",
+				"phpinfo"
+			],
+			[
+				"build",
+				"buildFormUrl"
+			],
+			[
+				"User",
+				"UserLib"
+			],
+			[
+				"defa",
+				"defaultSort"
+			],
+			[
+				"parse",
+				"parseField"
+			],
+			[
+				"order",
+				"dataOrder"
+			],
+			[
+				"sor",
+				"dataSort"
+			],
+			[
+				"sort",
+				"sortLang"
+			],
+			[
+				"fie",
+				"fieldsWhere"
+			],
+			[
+				"fiel",
+				"fieldsWhere"
+			],
+			[
+				"_",
+				"_field"
+			],
+			[
+				"Data",
+				"DataListLib"
+			],
+			[
+				"list",
+				"listName"
+			],
+			[
+				"In",
+				"Input	Laravel: Input::get()"
+			],
+			[
+				"va",
+				"valueReceived"
+			],
+			[
+				"Input",
+				"Input	Laravel: Input::all()"
+			],
+			[
+				"Route",
+				"Route	Laravel: Route::get()"
+			],
+			[
+				"pe",
+				"people_id"
+			],
+			[
+				"reques",
+				"requestUri"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"branc",
+				"branchID"
+			],
+			[
+				"he",
+				"height"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 3694,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/jquery.slitslider.js",
+			"settings":
+			{
+				"buffer_size": 15443,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Stylus/Stylus.sublime-build",
+	"command_palette":
+	{
+		"height": 198.0,
+		"selected_items":
+		[
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ccss",
+				"Convert Case: Swap Case"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"gi",
+				"Gist: Open Gist"
+			],
+			[
+				"gis",
+				"Gist: Insert Gist"
+			],
+			[
+				"gist",
+				"Gist: Open Gist"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"re",
+				"File: Rename"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: vard",
+				"Snippet: PHP-var-dump"
+			],
+			[
+				"migra",
+				"Laravel Generate: Migration"
+			],
+			[
+				"json",
+				"Set Syntax: SJSON"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"js",
+				"Set Syntax: JSON"
+			],
+			[
+				"blade",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"php ",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"migr",
+				"Laravel Generate: Migration"
+			],
+			[
+				"lara",
+				"Laravel Generate: Migration"
+			],
+			[
+				"reso",
+				"Laravel Generate: Resource"
+			],
+			[
+				"artisan",
+				"Laravel Artisan Command"
+			],
+			[
+				"laravel",
+				"Laravel Generate: Migration"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"new file",
+				"File: New File Relative to Current View"
+			],
+			[
+				"new",
+				"File: New View into File"
+			],
+			[
+				"app",
+				"Set Syntax: AppleScript"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"bl",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"base con",
+				"Snippet: CI - Base Controller"
+			],
+			[
+				"controller",
+				"Snippet: CI - Base Controller"
+			],
+			[
+				"artisa",
+				"Laravel Artisan Command"
+			],
+			[
+				"seed",
+				"Laravel Generate: Seed"
+			],
+			[
+				"larave",
+				"Laravel Artisan Command"
+			],
+			[
+				"synt em",
+				"Set Syntax: Emmet"
+			],
+			[
+				"ar",
+				"Laravel Artisan Command"
+			],
+			[
+				"arti",
+				"Laravel Artisan Command"
+			],
+			[
+				"la",
+				"Laravel Artisan Command"
+			],
+			[
+				"lar",
+				"Laravel Artisan Command"
+			],
+			[
+				"open",
+				"Gist: Open Gist"
+			],
+			[
+				"create",
+				"Gist: Create Public Gist"
+			],
+			[
+				"create p",
+				"Gist: Create Public Gist"
+			],
+			[
+				"new f",
+				"File: New File Relative to Current View"
+			],
+			[
+				"open ",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"open br",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"edit",
+				"Project: Edit"
+			],
+			[
+				"proj",
+				"Project: Save As"
+			],
+			[
+				"brows",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"pak",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"pakacge",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"packag in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 162.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/medula/digital-signage/digital-signage.sublime-project",
+		"/C/xampp/htdocs/medula/digital-signage/js/jquery.slitslider.js",
+		"/C/xampp/htdocs/medula/jzmusic.cl/.htaccess",
+		"/C/xampp/htdocs/medula/digital-signage/index.html",
+		"/C/xampp/htdocs/medula/jzmusic.cl/info.php",
+		"/C/xampp/htdocs/medula/digital-signage/js/jquery.ba-cond.min.js",
+		"/C/xampp/htdocs/medula/jzmusic.cl/Servicios.md",
+		"/C/Users/Niko/Desktop/.htaccess",
+		"/C/Users/Niko/Desktop/gitpull.php",
+		"/C/xampp/htdocs/medula/jzmusic.cl/_/js/presupuestos.js",
+		"/C/xampp/htdocs/medula/jzmusic.cl/presupuestos.php",
+		"/C/xampp/htdocs/medula/gg/themes/bartik/templates/page.tpl.php",
+		"/C/xampp/htdocs/medula/jzmusic.cl/_/sass/styles.scss",
+		"/C/xampp/htdocs/medula/jzmusic.cl/galeria/rss_fetch.inc",
+		"/C/xampp/htdocs/medula/jzmusic.cl/galeria/Worker.php",
+		"/C/xampp/htdocs/medula/jzmusic.cl/_/css/style.css",
+		"/C/xampp/htdocs/medula/jzmusic.cl/_/css/styles.css",
+		"/C/xampp/htdocs/medula/jzmusic.cl/galeria/Image.php",
+		"/C/xampp/htdocs/medula/jzmusic.cl/_/sass/presupuestos.scss",
+		"/C/xampp/htdocs/medula/jzmusic.cl/_/css/magnificPopup.css",
+		"/C/xampp/htdocs/medula/jzmusic.cl/galeria.php",
+		"/C/xampp/htdocs/medula/jzmusic.cl/galeria/dom.html",
+		"/C/xampp/htdocs/medula/jzmusic.cl/_/js/libs/magnificPopup.min.js",
+		"/C/Users/Niko/Desktop/index.php",
+		"/C/Users/Niko/Desktop/Worker.php",
+		"/C/xampp/htdocs/medula/jzmusic.cl/_/js/main.js",
+		"/C/xampp/htdocs/medula/jzmusic.cl/_/js/iniciales.js",
+		"/C/xampp/htdocs/medula/jzmusic.cl/_/js/plugins.js",
+		"/C/xampp/htdocs/medula/jzmusic.cl/_/sass/magnificPopup.scss",
+		"/C/xampp/htdocs/medula/jzmusic.cl/_/sass/_magnificPopup.scss",
+		"/C/xampp/htdocs/medula/jzmusic.cl/_/quickconcat.php",
+		"/C/xampp/htdocs/medula/jzmusic.cl/_/js/magnificPopup.min.js",
+		"/C/xampp/htdocs/medula/jzmusic.cl/galeria/dom.php",
+		"/C/xampp/htdocs/medula/jzmusic.cl/galeria/rss_cache.inc",
+		"/C/xampp/htdocs/medula/jzmusic.cl/galeria/rss_parse.inc",
+		"/C/xampp/htdocs/medula/jzmusic.cl/galeria/Fetch.php",
+		"/C/xampp/htdocs/medula/jzmusic.cl/galeria/images.txt",
+		"/C/Users/Niko/Documents/Visual Studio 2010/Projects/AgendaTributaria/Areas/Clientes/Views/Portal/Index.cshtml",
+		"/C/xampp/htdocs/medula/jzmusic.cl/galeria/fetch-and-store.php",
+		"/C/xampp/htdocs/medula/jzmusic.cl/galeria/rss_utils.inc",
+		"/C/xampp/htdocs/medula/jzmusic.cl/galeria/extlib/Snoopy.class.inc",
+		"/C/Users/Niko/AppData/Roaming/Sublime Text 2/Packages/User/PHP.sublime-settings",
+		"/C/Users/Niko/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/xampp/htdocs/medula/jzmusic.cl/galeria/extlib/simple_html_dom.php",
+		"/C/xampp/htdocs/medula/jzmusic.cl/_/sass/_forms.scss",
+		"/C/xampp/htdocs/medula/jzmusic.cl/_/sass/_presupuestos.scss",
+		"/C/xampp/htdocs/medula/veronica-reposteria/_layouts/home-page.html",
+		"/C/xampp/htdocs/medula/veronica-reposteria/_posts/2013-08-23-brazo-de-reina.md",
+		"/C/xampp/htdocs/medula/jzmusic.cl/contacto.php",
+		"/C/xampp/htdocs/medula/jzmusic.cl/index.php",
+		"/C/xampp/htdocs/medula/veronica-reposteria/assets/js/main.js",
+		"/C/xampp/htdocs/medula/veronica-reposteria/README.md",
+		"/C/xampp/htdocs/medula/veronica-reposteria/assets/js/main.min.js",
+		"/C/xampp/htdocs/medula/veronica-reposteria/_layouts/post.html",
+		"/C/Users/Niko/Documents/Visual Studio 2010/Projects/AgendaTributaria/Areas/Clientes/Views/Portal/ListadoNoticias.cshtml",
+		"/C/xampp/htdocs/medula/veronica-reposteria/report-moda.sublime-project",
+		"/C/xampp/htdocs/medula/veronica-reposteria/_config.yml",
+		"/C/xampp/htdocs/medula/veronica-reposteria/index.html",
+		"/C/xampp/htdocs/medula/jzmusic.cl/_/js/min/presupuestos.min.js",
+		"/C/xampp/htdocs/medula/report-moda.cl/report-moda.sublime-project",
+		"/C/xampp/htdocs/medula/report-moda.cl/wp-content/themes/reportmoda/index.php",
+		"/C/xampp/htdocs/medula/report-moda.cl/wp-content/themes/reportmoda/content.php",
+		"/C/xampp/htdocs/medula/report-moda.cl/wp-content/themes/reportmoda/functions.php",
+		"/C/xampp/htdocs/medula/report-moda.cl/wp-content/themes/reportmoda/category.php",
+		"/C/xampp/htdocs/medula/report-moda.cl/wp-content/themes/reportmoda/footer.php",
+		"/C/xampp/htdocs/medula/report-moda.cl/wp-content/themes/reportmoda/header.php",
+		"/C/xampp/htdocs/medula/report-moda.cl/wp-content/themes/reportmoda/page-videos.php",
+		"/C/xampp/htdocs/medula/report-moda.cl/wp-content/themes/reportmoda/style.css",
+		"/C/Users/Niko/AppData/Local/Temp/$$_4CFB/icomoon28521/style.css",
+		"/C/xampp/htdocs/medula/report-moda.cl/wp-content/themes/reportmoda/single.php",
+		"/C/xampp/htdocs/medula/jzmusic.cl/_/sass/styles.css",
+		"/C/xampp/htdocs/medula/report-moda.cl/wp-content/plugins/wp-minify/wp-minify.php",
+		"/C/Users/Niko/Desktop/wp-minify.php",
+		"/C/Users/Niko/Desktop/config.php",
+		"/C/xampp/htdocs/medula/jzmusic.cl/views/javascript-al-pie.php",
+		"/C/xampp/htdocs/medula/jzmusic.cl/_/sass/_presupuesto.scss",
+		"/C/xampp/htdocs/medula/jzmusic.cl/presupuesto.php",
+		"/C/xampp/htdocs/medula/jzmusic.cl/_/sass/_datePicker.scss",
+		"/C/xampp/htdocs/medula/jzmusic.cl/_/sass/date-picker.scss",
+		"/C/xampp/htdocs/medula/jzmusic.cl/_/js/libs/jquery-ui-1.10.3.custom.min.js",
+		"/C/xampp/htdocs/medula/jzmusic.cl/_/css/jzmusic-theme/jquery-ui-1.10.3.custom.css",
+		"/C/xampp/htdocs/medula/jzmusic.cl/_/css/jzmusic-theme/jquery-ui-1.10.3.custom.min.css",
+		"/C/xampp/htdocs/medula/jzmusic.cl/_/css/custom-theme/jquery-ui-1.10.3.custom/css/custom-theme/jquery-ui-1.10.3.custom.css",
+		"/C/xampp/htdocs/medula/jzmusic.cl/_/css/custom-theme/jquery-ui-1.10.3.custom.css",
+		"/C/xampp/htdocs/medula/jzmusic.cl/views/viewport-fav-setup.php",
+		"/C/xampp/htdocs/medula/jzmusic.cl/_/sass/_stickyFooter.scss",
+		"/C/xampp/htdocs/medula/jzmusic.cl/_/sass/_normals.scss",
+		"/C/xampp/htdocs/medula/jzmusic.cl/_/sass/_fonts.scss",
+		"/C/Users/Niko/AppData/Roaming/Sublime Text 2/Packages/AdvancedNewFile/README.md",
+		"/C/xampp/htdocs/medula/jzmusic.cl/jzmusic.sublime-project",
+		"/C/xampp/htdocs/medula/jzmusic.cl/_/inc/datos-globales.php",
+		"/C/projects/MobZervice/MobZervice.sublime-project",
+		"/C/projects/MobZervice/MobZervice.sublime-workspace",
+		"/C/xampp/htdocs/medula/veronica-reposteria/_includes/contact-form.html",
+		"/C/xampp/htdocs/medula/veronica-reposteria/_includes/scripts.html",
+		"/C/Users/Niko/AppData/Local/Temp/$$_4B8A/head-cleaner/head-cleaner.php",
+		"/C/xampp/htdocs/medula/veronica-reposteria/assets/less/custom-medula.less",
+		"/C/xampp/htdocs/medula/veronica-reposteria/assets/less/main.less",
+		"/C/xampp/htdocs/medula/veronica-reposteria/_includes/head.html",
+		"/C/xampp/htdocs/medula/veronica-reposteria/_includes/cake.html",
+		"/C/xampp/htdocs/medula/veronica-reposteria/assets/js/custom-medula.js",
+		"/C/xampp/htdocs/medula/veronica-reposteria/assets/less/gallery.less",
+		"/C/Users/Niko/Desktop/info.php",
+		"/C/xampp/htdocs/medula/report-moda.cl/wp-admin/includes/image.php",
+		"/C/xampp/htdocs/medula/report-moda.cl/wp-admin/admin-ajax.php",
+		"/C/xampp/htdocs/medula/veronica-reposteria/css/syntax.css",
+		"/C/xampp/htdocs/medula/veronica-reposteria/css/main.css",
+		"/C/xampp/htdocs/medula/veronica-reposteria/assets/css/main.css",
+		"/C/xampp/htdocs/medula/veronica-reposteria/assets/css/zoom.css",
+		"/C/Users/Niko/Desktop/error.log",
+		"/C/xampp/htdocs/medula/report-moda.cl/wp-content/themes/reportmoda/content-gallery.php",
+		"/C/xampp/htdocs/medula/report-moda.cl/wp-content/themes/reportmoda/content-image.php",
+		"/C/xampp/htdocs/medula/report-moda.cl/wp-content/themes/reportmoda/content-link.php",
+		"/C/xampp/htdocs/medula/report-moda.cl/wp-content/themes/reportmoda/content-quote.php",
+		"/C/xampp/htdocs/medula/report-moda.cl/wp-content/themes/reportmoda/content-status.php",
+		"/C/xampp/htdocs/medula/report-moda.cl/wp-content/themes/reportmoda/content-audio.php",
+		"/C/xampp/htdocs/medula/report-moda.cl/wp-content/themes/reportmoda/content-chat.php",
+		"/C/xampp/htdocs/medula/report-moda.cl/wp-content/themes/reportmoda/content-video.php",
+		"/C/xampp/htdocs/medula/report-moda.cl/wp-content/themes/reportmoda/content-none.php",
+		"/C/xampp/htdocs/medula/veronica-reposteria/assets/js/vendor/jquery.magnific-popup.js",
+		"/C/Users/Niko/Desktop/503.php",
+		"/C/Users/Niko/Desktop/advanced-cache.php",
+		"/C/Users/Niko/Desktop/wp-config.php",
+		"/C/Users/Niko/Desktop/wp-cache-config.php",
+		"/C/Users/Niko/Desktop/robots.txt",
+		"/C/xampp/htdocs/medula/report-moda.cl/wp-content/plugins/dashboard.php",
+		"/C/xampp/htdocs/medula/veronica-reposteria/_includes/footer.html",
+		"/C/xampp/htdocs/medula/veronica-reposteria/assets/less/variables.less"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\xampp\\htdocs\\medula\\report-moda.cl",
+			"C:\\projects\\MobZervice\\vendor",
+			"C:\\xampp\\htdocs\\medula\\report-moda.cl\\",
+			"C:\\xampp\\htdocs\\medula\\report-moda.cl\\wp-content\\themes\\reportmoda",
+			"C:\\xampp\\htdocs\\medula\\report-moda.cl\\wp-content",
+			"C:\\xampp\\htdocs\\medula\\report-moda.cl\\wp-content\\themes\\reportmoda",
+			"C:\\projects\\MobZervice",
+			"C:\\xampp\\htdocs\\MobZervice",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"isAni",
+			"play",
+			"isPlaying",
+			"current",
+			"onAfterChange",
+			".current",
+			"_getSize",
+			"current",
+			"onAfterChange",
+			"onBeforeChange",
+			"onAfterChange",
+			"onBeforeChange",
+			"currentSlide",
+			"options",
+			"www.",
+			"www,",
+			"cambiarSlide(1)",
+			"trigger_error",
+			"of",
+			"import",
+			"cache",
+			"MAGPIE_CACHE_ON",
+			"cache",
+			"read",
+			"imgs",
+			"normal",
+			"BASE_CACHE",
+			"$BASE_CACHE",
+			"public",
+			"imgNormal",
+			"cache",
+			"span",
+			"debugg",
+			"presupuesto_5",
+			"forloop",
+			"debug",
+			"presupuesto_2",
+			"presupuesto_3",
+			"locat",
+			"this",
+			"reset",
+			"click(",
+			"pregunta",
+			"siguiente",
+			"siguiente(",
+			".siguiente(",
+			"that",
+			"i",
+			"spl",
+			"this",
+			".</p>",
+			"parlantes <span data-item",
+			"parlantes",
+			"data-parlante",
+			"console",
+			"presupuesto_3",
+			"catID",
+			"icon",
+			"button",
+			"slideUp",
+			"slideDown",
+			"presupuesto_6",
+			"data-image",
+			"<p data-equipos>",
+			"<span data-image></span>",
+			"<img src=\"imgs/presupuestos/ZX4_5oc-trans.png\" width=\"100\">",
+			"data-descripcion",
+			"dark",
+			"p",
+			"data-",
+			"encontrar",
+			"#presupuesto_4",
+			"#presupuesto_3",
+			"ocultar",
+			"div",
+			"<span data-parlantes",
+			"$ie",
+			"IE",
+			"presupuesto-slide",
+			"siguienteSlide",
+			"that.datosFiesta.tipoFiesta",
+			"this.datosFiesta.slideActual",
+			"slideActual",
+			"span",
+			"import",
+			"image",
+			"images",
+			"images/",
+			"ui-icons_ffffff_256x240",
+			"nombre",
+			"for=\"",
+			"weight",
+			"&&",
+			"font-size",
+			"form",
+			"head_start",
+			".css",
+			"_init",
+			"_init(",
+			"size",
+			"permalink",
+			"title",
+			"permalink",
+			"title",
+			"permalink",
+			"form",
+			"trim",
+			"utf-8",
+			"stage",
+			"blog",
+			"/blog/",
+			"tea",
+			"example_dashboard_widget",
+			"Close",
+			"Escape",
+			"of",
+			"source",
+			"image-source-link",
+			"CLOSE_EVENT",
+			"Private static constants",
+			"rem",
+			"black",
+			".min.map\n",
+			"{\n",
+			"{{ site.url }}/",
+			"IMG",
+			"entry",
+			"shadow"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"../imgs/",
+			"for=\"form-",
+			"/",
+			"",
+			"Clientes",
+			"#ecf1f5",
+			"'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 3694,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2917,
+								2917
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"php": "C:\\xampp\\php\\php.exe",
+								"sublimelinter": "save-only"
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 63.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/jquery.slitslider.js",
+					"settings":
+					{
+						"buffer_size": 15443,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14207,
+								14207
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"php": "C:\\xampp\\php\\php.exe",
+								"sublimelinter": "save-only"
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 12191.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 39.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.artisan_output":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 48.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"con",
+				"contacto.php"
+			],
+			[
+				"",
+				"artisan"
+			],
+			[
+				"routes",
+				"app/routes.php"
+			],
+			[
+				"app.php",
+				"app/config/app.php"
+			],
+			[
+				"sche",
+				"vendor/doctrine/dbal/lib/Doctrine/DBAL/Schema/Schema.php"
+			],
+			[
+				"rquest.php",
+				"vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Request.php"
+			],
+			[
+				"request.php",
+				"vendor/laravel/framework/src/Illuminate/Http/Request.php"
+			],
+			[
+				"ompie",
+				"bootstrap/compiled.php"
+			],
+			[
+				"eloquent",
+				"vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php"
+			],
+			[
+				"collectio",
+				"vendor/laravel/framework/src/Illuminate/Database/Eloquent/Collection.php"
+			],
+			[
+				"global",
+				"app/start/global.php"
+			],
+			[
+				"address",
+				"app/database/migrations/2013_07_09_174240_create_addresses_table.php"
+			],
+			[
+				"optimiz",
+				"vendor/laravel/framework/src/Illuminate/Foundation/Console/OptimizeCommand.php"
+			],
+			[
+				"optimize",
+				"vendor/laravel/framework/src/Illuminate/Foundation/Console/OptimizeCommand.php"
+			],
+			[
+				"helpers.php",
+				"vendor/laravel/framework/src/Illuminate/Support/helpers.php"
+			],
+			[
+				"group",
+				"vendor/cartalyst/sentry/src/Cartalyst/Sentry/Groups/Eloquent/Group.php"
+			],
+			[
+				"datalis",
+				"public/js/libs/dataList.js"
+			],
+			[
+				"user.ph",
+				"vendor/cartalyst/sentry/src/Cartalyst/Sentry/Users/Eloquent/User.php"
+			],
+			[
+				"user.p",
+				"vendor/cartalyst/sentry/src/Cartalyst/Sentry/Users/Eloquent/User.php"
+			],
+			[
+				"user.",
+				"vendor/cartalyst/sentry/src/Cartalyst/Sentry/Users/Eloquent/User.php"
+			],
+			[
+				"user.php",
+				"vendor/cartalyst/sentry/src/Cartalyst/Sentry/Users/Eloquent/User.php"
+			],
+			[
+				"group.php",
+				"vendor/cartalyst/sentry/src/Cartalyst/Sentry/Groups/Eloquent/Group.php"
+			],
+			[
+				"config",
+				"vendor/cartalyst/sentry/src/config/config.php"
+			],
+			[
+				"config.php",
+				"vendor/cartalyst/sentry/src/config/config.php"
+			],
+			[
+				"urlge",
+				"vendor/symfony/routing/Symfony/Component/Routing/Generator/UrlGenerator.php"
+			],
+			[
+				"urlgene",
+				"vendor/symfony/routing/Symfony/Component/Routing/Generator/UrlGenerator.php"
+			],
+			[
+				"urlgenera",
+				"vendor/symfony/routing/Symfony/Component/Routing/Generator/UrlGenerator.php"
+			],
+			[
+				"urlgenerator.php",
+				"vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php"
+			],
+			[
+				"urlgen",
+				"vendor/symfony/routing/Symfony/Component/Routing/Generator/UrlGenerator.php"
+			],
+			[
+				"formbuilder",
+				"vendor/laravel/framework/src/Illuminate/Html/FormBuilder.php"
+			],
+			[
+				"helpers",
+				"vendor/laravel/framework/src/Illuminate/Support/helpers.php"
+			],
+			[
+				"helpers.p",
+				"vendor/predis/predis/lib/Predis/Helpers.php"
+			],
+			[
+				"home.",
+				"app/views/users/home.blade.php"
+			],
+			[
+				"sentry",
+				"vendor/cartalyst/sentry/src/Cartalyst/Sentry/Sentry.php"
+			],
+			[
+				"compiled",
+				"bootstrap/compiled.php"
+			],
+			[
+				"compil",
+				"bootstrap/compiled.php"
+			],
+			[
+				"assets",
+				"vendor/laravel/framework/src/Illuminate/Foundation/AssetPublisher.php"
+			],
+			[
+				"sentry.",
+				"vendor/cartalyst/sentry/src/Cartalyst/Sentry/Sentry.php"
+			],
+			[
+				"user",
+				"app/models/User.php"
+			],
+			[
+				"use",
+				"app/libs/User.php"
+			],
+			[
+				"login.s",
+				"public/css/login.styl"
+			],
+			[
+				"main.st",
+				"public/css/main.styl"
+			],
+			[
+				"login",
+				"public/css/login.styl"
+			],
+			[
+				"blade",
+				"app/views/login.blade.php"
+			],
+			[
+				".blade",
+				"app/views/home.blade.php"
+			],
+			[
+				"fil",
+				"app/filters.php"
+			],
+			[
+				"sentrycon",
+				"vendor/cartalyst/sentry/src/config/config.php"
+			],
+			[
+				"path",
+				"bootstrap/paths.php"
+			],
+			[
+				"app",
+				"app/config/app.php"
+			],
+			[
+				"mail.",
+				"app/config/mail.php"
+			],
+			[
+				"lang",
+				"app/lang/en/validation.php"
+			],
+			[
+				"attributes",
+				"vendor/doctrine/annotations/lib/Doctrine/Common/Annotations/Annotation/Attributes.php"
+			],
+			[
+				"ses",
+				"app/config/session.php"
+			],
+			[
+				"peopl",
+				"app/database/migrations/2013_05_14_205645_create_people_table.php"
+			],
+			[
+				"auth",
+				"app/config/auth.php"
+			],
+			[
+				"rou",
+				"app/routes.php"
+			],
+			[
+				"data",
+				"app/config/database.php"
+			],
+			[
+				"start",
+				"bootstrap/start.php"
+			],
+			[
+				"home",
+				"app/views/home.blade.php"
+			],
+			[
+				"databas",
+				"app/config/database.php"
+			],
+			[
+				"sess",
+				"app/config/session.php"
+			],
+			[
+				"autoloa",
+				"application/config/autoload.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 202.0,
+	"status_bar_visible": true
+}

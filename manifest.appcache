@@ -1,0 +1,22 @@
+CACHE MANIFEST
+# 26/09/13 17:14:36
+CACHE:
+#ASSETS
+#CSS
+http://m0.cl/t/digital-signage/css/style.css
+http://m0.cl/t/digital-signage/css/custom.css
+#JS
+http://m0.cl/t/digital-signage/js/modernizr.custom.79639.js
+http://m0.cl/t/digital-signage/js/jquery-1.8.2.min.js
+http://m0.cl/t/digital-signage/js/jquery.ba-cond.min.js
+http://m0.cl/t/digital-signage/js/jquery.slitslider.js
+http://m0.cl/t/digital-signage/js/main.js
+#IMGS
+http://m0.cl/t/digital-signage/images/1.jpg
+http://m0.cl/t/digital-signage/images/2.jpg
+http://m0.cl/t/digital-signage/images/3.jpg
+http://m0.cl/t/digital-signage/images/4.jpg
+http://m0.cl/t/digital-signage/images/5.jpg
+#VIDEOS
+http://m0.cl/t/digital-signage/videos/gizmo.mp4
+#http://m0.cl/t/digital-signage/videos/duke-nukem.mp4

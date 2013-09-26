@@ -1,0 +1,11 @@
+AddType text/cache-manifest .appcache
+ExpiresByType text/cache-manifest "access plus 0 seconds"
+ExpiresByType text/css "access plus 0 seconds"
+ExpiresByType application/javascript "access plus 0 seconds"
+ExpiresByType audio/ogg "access plus 0 seconds"
+ExpiresByType image/gif "access plus 0 seconds"
+ExpiresByType image/jpeg "access plus 0 seconds"
+ExpiresByType image/png "access plus 0 seconds"
+ExpiresByType video/mp4 "access plus 0 seconds"
+ExpiresByType video/ogg "access plus 0 seconds"
+ExpiresByType video/webm "access plus 0 seconds"
